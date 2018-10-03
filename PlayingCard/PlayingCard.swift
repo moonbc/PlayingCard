@@ -8,7 +8,7 @@
 
 import Foundation
 
-//PlayingCard 2
+//PlayingCard
 struct PlayingCard
 {
     var suit: Suit
